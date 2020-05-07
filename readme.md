@@ -35,4 +35,4 @@ __Local Repo For self-learning__
 
 
 ## Screenshot
-![screenshot]( xxx )
+![screenshot]( https://github.com/csci3251-2020/student-1155116317/blob/master/milestone2.jpg )
